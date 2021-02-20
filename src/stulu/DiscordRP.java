@@ -20,7 +20,7 @@ public class DiscordRP {
                     Update("Starting...", "");
                 }
             }).build();
-            DiscordRPC.discordInitialize("744624162785460346", handler, true);
+            DiscordRPC.discordInitialize("---------", handler, true);
 
             new Thread("Discord RPC callback") {
                 @Override

@@ -1,5 +1,5 @@
 # Stulu Client
-The Minecarft Stulu Client
+### NOTE: The Client is only for personal usage, i am not making any money with the client
 
 ## Mods:
 ### GUI

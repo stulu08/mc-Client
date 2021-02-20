@@ -1,6 +1,7 @@
 # Stulu Client
 ### NOTE: The Client is only for personal usage, i am not making any money with the client
-
+### You can use this code in any way you want, but you can NOT make money with my code or the code from Mojang/Optifine
+### Some Files are from [Egold555](https://github.com/egold555/Minecraft-1.8.8-PVP-Client-Series) or inspired by him!
 ## Mods:
 ### GUI
 - Fps 

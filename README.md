@@ -3,6 +3,11 @@
 ### You can use this code in any way you want, but you can NOT make money with my code or the code from Mojang/Optifine
 ### Some Files are from [Egold555](https://github.com/egold555/Minecraft-1.8.8-PVP-Client-Series) or inspired by him!
 ## Mods:
+### Features
+- Better buttons
+- Custom Crosshair
+- Server Infos in direct connect screen
+- Discord RPC
 ### GUI
 - Fps 
 - Options menu
@@ -23,13 +28,15 @@
 - Hat
 - Capes
 - Blaze Effect
+- Wither Effect
 - (with settings, color etc)
 ## Commands
 - help
-- f
+- f/fb
+- say
 - more comming soon
 ## How to install:
-- Download the zip folder of the latest version (V1.0.1) 
+- Download the zip folder of the latest version (V1.1.0) 
 - Unzip the folder(or open it with winrar,etc...)
 - Put the "Stulu Client" folder in %appdata%/.minecraft/versions/
 - Create a new minecraft profile with the version "Stulu Client"(between 1.8.0 and 1.7.10)

@@ -38,7 +38,7 @@
 ## How to install:
 - Download the zip folder of the [latest release](https://github.com/stulu08/mc-Client/releases/latest) (V1.1.0) 
 - Unzip the folder(or open it with winrar,etc...)
-- Put the "Stulu Client" folder in %appdata%/.minecraft/versions/
+- Put everything from the zip file in %appdata%/.minecraft/versions/
 - Create a new minecraft profile with the version "Stulu Client"(between 1.8.0 and 1.7.10)
 - Launch the new profile
 
